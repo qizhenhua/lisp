@@ -1,6 +1,6 @@
 ;You can modify the below line to fit your bubble block
 (setq mybubble "hh") ;<---modify here, replace "hh" with your block
-;hh is foxconn's bubble
+;hh is example bubble block, it must contain a attribute
 ;--------------------------
 (setq bubblemsg "
 Author: QiZhenhua, 2018/07/21
